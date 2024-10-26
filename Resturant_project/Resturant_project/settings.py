@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-mw57o3_w-vtw%=*c@gg*0@x*6pt8ue-12#3*94*)^41x)t2e$f
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://epicure-s-haven.onrender.com']
 
 
 # Application definition
