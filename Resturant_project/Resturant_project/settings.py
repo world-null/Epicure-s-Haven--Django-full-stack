@@ -119,7 +119,7 @@ USE_TZ = True
 STATIC_URL = 'static/'
 STATICFILES_DIRS = [os.path.join(BASE_DIR, 'Resturant_project', 'static')]
 
-MEDIA_URL = 'media/'
+MEDIA_URL = 'media/Items'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'Resturant_project', 'media')
 
 # Default primary key field type
